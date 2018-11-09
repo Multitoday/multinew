@@ -87,8 +87,8 @@ instruction:
     subtitle: 'Send ETH from your wallet to the smart contract address:'
     copy: Copy contract address
     p1: Minimum investment is 0.01 ETH, maximum &mdash; 10 ETH
-    p2: 'Minimum gas limit: <b>250000</b>, atual gas price you can see at
-      <a href="https://ethgasstation.info/">https://ethgasstation.info/</a>'
+    p2: 'Minimum gas limit: <b>250000</b>, maximum gas price 50 Gwei
+      '
     p3: You can not transfer money from exchanges, only from your personal ETH wallet
     p4: "   "
   step3:
