@@ -87,8 +87,8 @@ instruction:
     subtitle: Отправьте ETH со своего кошелька на адрес смарт контракта:
     copy: Скопируйте адрес контракта
     p1: Минимальная сумма вложения 0.01 ETH, максимальная 10 ETH
-    p2: Минимальный gas limit: <b>250000</b>, актуальный gas price можно взять с
-      <a href="https://ethgasstation.info/">https://ethgasstation.info/</a>
+    p2: Минимальный gas limit: <b>250000</b>, максимальный gas price 50 Gwei
+      
     p3: Не допускаются перечисления с бирж, только с вашего личного ETH кошелька
     p4: "   "
   step3:
